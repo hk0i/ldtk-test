@@ -1,0 +1,40 @@
+{
+  "Rects": [
+    {
+      "x": 32,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    }
+  ],
+  "Def": {
+    "__cHei": 5,
+    "__cWid": 17,
+    "cachedPixelData": {
+      "opaqueTiles": "0100001001100100001000011000000010000000000000000000000000001000000000000000000000000",
+      "averageColors": "f566f455f5660000f5660000f334f3340000f344f4440000f455f4550000f4550000f556f334f5560000f6670000f344f3440000f444f4450000f445f4450000f444f444e667f556e5570000e667000000000000000000000000000000000000000000000000000000000000000000000000f556f5560000f455f4550000f566f4660000f566f566e577f566e5660000e5770000f556f5560000f556f5560000f566f5660000e667e567"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Island",
+    "padding": 0,
+    "pxHei": 160,
+    "pxWid": 544,
+    "relPath": "assets/Treasure Hunters/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+      "Island"
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 32,
+    "uid": 1
+  }
+}

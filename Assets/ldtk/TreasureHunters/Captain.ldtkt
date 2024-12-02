@@ -1,0 +1,40 @@
+{
+  "Rects": [
+    {
+      "x": 16,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    }
+  ],
+  "Def": {
+    "__cHei": 3,
+    "__cWid": 4,
+    "cachedPixelData": {
+      "opaqueTiles": "000000001111",
+      "averageColors": "000067786889000000008866896600000000000000000000"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Captain",
+    "padding": 0,
+    "pxHei": 40,
+    "pxWid": 64,
+    "relPath": "assets/Treasure Hunters/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 01.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+      "Character"
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 16,
+    "uid": 56
+  }
+}

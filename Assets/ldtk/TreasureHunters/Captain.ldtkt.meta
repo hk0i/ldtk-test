@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 91267a751682348e3b0f6f23faa85a96
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 32
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Captain_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 24
+      width: 16
+      height: 16
+    spriteID: 7056650db7c324f8ea1bc113b31e81a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Captain_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 24
+      width: 16
+      height: 16
+    spriteID: ba25fd0439b9f4eeb8903514e4590939
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Captain_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 24
+      width: 16
+      height: 16
+    spriteID: 90bcce50b612b44b481728ff7a2b4782
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Captain_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 24
+      width: 16
+      height: 16
+    spriteID: 3c7aed12322374a928f8f888811dce2b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Captain_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 8
+      width: 16
+      height: 16
+    spriteID: 3db7708c5a1cc4ef0bad63456e25492a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Captain_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 8
+      width: 16
+      height: 16
+    spriteID: f80dfab91e43c4aa4acbf2a62292587a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Captain_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 8
+      width: 16
+      height: 16
+    spriteID: 0d217ac52f43445fbbfcc22ab8a1e2ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Captain_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 8
+      width: 16
+      height: 16
+    spriteID: ddbdb3e6d8e054095aa30a6d1b680a6a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Captain_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 8
+    spriteID: a42c2571c9f8847ed8e6f0c8b542738b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Captain_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 8
+    spriteID: 77824f7ba6efe4fd69eec8036a3961a6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Captain_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 8
+    spriteID: 7251d5356704e469a8d7625390aef988
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Captain_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 8
+    spriteID: e1d4f9156933447eebafc106dcdd6d59
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {fileID: -2988177865379244337, guid: 91267a751682348e3b0f6f23faa85a96, type: 3}
